@@ -1,9 +1,7 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/156px-Warning.svg.png)
 
-## Repository is obsolete
-This repository has been archived in favor of [operatorhub.io](https://operatorhub.io).
+Kudos to [operatorhub.io](https://operatorhub.io), please visit this site, while this page is for on hands reference only.
 
-### Awesome Operators in the Wild
+### Operators for Kubernetes (K8s)
 
 Operators are Kubernetes native applications. We define native as being both managed using the Kubernetes APIs via kubectl and ran on Kubernetes as containers. Operators take advantage of Kubernetes’s extensibility to deliver the automation advantages of cloud services like provisioning, scaling, and backup/restore while being able to run anywhere that Kubernetes can run.
 
